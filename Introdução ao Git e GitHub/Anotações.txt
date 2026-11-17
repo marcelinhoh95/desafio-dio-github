@@ -1,0 +1,7 @@
+**Link para Download do Git**
+
+Windows: [Git - Install for Windows](https://git-scm.com/install/windows)
+
+MacOS: [Git - Install for macOS](https://git-scm.com/install/mac)
+
+Linux: [Git - Install for Linux](https://git-scm.com/install/linux)
